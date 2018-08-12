@@ -1,0 +1,16 @@
+{
+    "name": "texta",
+    "version": "0.0.1",
+    "decription": "A text node search and replace observer.",
+    "author": "anonscm <40038593+anonscm@users.noreply.github.com> (anonscm)",
+    "keywords": ["texta", "textNode", "userscript", "userscripts", "user script", "user scripts"],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/anonscm/texta.git"
+    },
+    "main": "./lib/texta.js",
+    "directories": {
+        "lib": "./lib"
+    }
+}
